@@ -40,6 +40,12 @@
   *::after {
     box-sizing: border-box;
   }
+
+  html, body {
+    overflow: hidden;
+    height: 100%;
+}
+
   
   html {
     font-family: sans-serif;
